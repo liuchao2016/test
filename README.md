@@ -1,2 +1,2 @@
 # test
-* just one test *
+* just test *
