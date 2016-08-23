@@ -1,0 +1,4 @@
+相关链接：http://jingyan.baidu.com/article/3a2f7c2e0d5f2126aed61175.html
+1.下载filder
+2.启用如果是pc浏览器设置代理127.0.0.1 端口8888
+  如果是手机长按wlan，选择修改网络，设置代理，ip选择本机ip，ipconfig查看
